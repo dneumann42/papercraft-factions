@@ -1,0 +1,6 @@
+---  # Denotes the start of this YAML document. https://yaml.org/spec/1.2/spec.html#id2760395
+name: vault-factions
+main: io.harpbytes.vaultfactionsplugin.VaultFactionsPlugin
+version: 1.8.0
+api-version: 1.16
+... # Denotes the end of this YAML document. https://yaml.org/spec/1.2/spec.html#id2760395
